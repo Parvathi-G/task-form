@@ -1,0 +1,153 @@
+// button{
+//     border-radius: 30px;
+//     width: 150px;
+//     height: 30px;
+//     border: none;
+//     background-color: #3131c4;
+//     color: white;
+//     margin: 10px;
+// }
+// form{
+//     background-color: whitesmoke;
+//     height: 600px;
+//     padding-left: 30%;
+//     padding-top: 50px;
+//     font-size: larger;
+//     color: grey;
+    
+// }
+// // .container{
+   
+// //     width: 100px;
+
+// // }
+// .gender-label {
+//     margin-bottom: 0.5rem;
+//   }
+  
+//   .gender {
+//     display: flex;
+//     align-items: center;
+    
+//   }
+  
+//   .gender label {
+//     margin-right: 0.5rem;
+//     display: flex;
+//     align-items: center;
+//   }
+// label{
+//     padding-top: 20px;
+  
+//     border: 1px solid saddlebrown;
+   
+  
+   
+// }
+// input{
+//     margin-left: 20vb;
+//     margin-top: 10px;
+//     width: 200px;
+   
+// }
+
+ 
+  
+  .form-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .form-group {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .container{
+    margin-left: 30vw;
+    margin-top: 10vh;
+  }
+  .button-group{
+    margin-top: 10vh;
+    margin-left: 30vw;
+  }
+  
+  .form-group label {
+    flex: 0 0 150px; /* Fixed width for labels */
+    display: inline-block;
+  }
+  
+  .form-group input,
+  .form-group select {
+    flex: .56;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .gender-group {
+    flex-direction: row;
+    align-items: center;
+  }
+  .gender {
+    display: flex;
+    align-items: center;
+    gap: 0; /* No gap between elements */
+  }
+  
+  .gender label,
+  .gender input {
+    margin: 0; /* Remove margin */
+    padding-left: 5px; /* Remove padding */
+    border: 1px solid #ccc;
+    height: 30px;
+  
+  }
+  .gender #female label{
+    margin-left: -10px;
+  }
+  .gender {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .gender label {
+    margin-right: 0.5rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  button {
+    margin: 10px;
+    padding:10px;
+    width: 150px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  .next-button {
+    align-self: center;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .next-button:hover {
+    background-color: #0056b3;
+  }
+  
+
+
+  

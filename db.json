@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "id": "8017",
+      "firstname": "Parvathi",
+      "lastname": "G",
+      "dob": "2024-06-18",
+      "gender": "female",
+      "guardian": "JAYAN",
+      "group": "A+",
+      "contact": {
+        "email": "PARVATHI@GMAIL.COM",
+        "phone": "313164875"
+      },
+      "address": {
+        "street": "vaikom",
+        "city": "vaikom"
+      }
+    },
+    {
+      "id": "44db",
+      "firstname": "Amritha",
+      "lastname": "h",
+      "dob": "2024-06-23",
+      "gender": "female",
+      "guardian": "Anoop",
+      "group": "A+",
+      "contact": {
+        "email": "amritha@gmail.com",
+        "phone": "7894561230"
+      },
+      "address": {
+        "street": "kozikkode",
+        "city": "kozikkode"
+      }
+    },
+    {
+      "id": "9a80",
+      "firstname": "Neethu",
+      "lastname": "d",
+      "dob": "2024-06-26",
+      "gender": "female",
+      "guardian": "anto",
+      "group": "o+",
+      "contact": {
+        "email": "neethu@gmail.com",
+        "phone": "123224567890"
+      },
+      "address": {
+        "street": "vallom",
+        "city": "vallom"
+      }
+    },
+    {
+      "id": "7325",
+      "firstname": "anu",
+      "lastname": "radha",
+      "dob": "2024-06-28",
+      "gender": "female",
+      "guardian": "achuthan",
+      "group": "A+",
+      "contact": {
+        "email": "anu@gmail.com",
+        "phone": "852134690"
+      },
+      "address": {
+        "street": "thotakam",
+        "city": "thotakam"
+      }
+    },
+    {
+      "id": "c8d8",
+      "firstname": "seetha",
+      "lastname": "nair",
+      "dob": "2024-06-28",
+      "gender": "female",
+      "guardian": "antony",
+      "group": "A+",
+      "contact": {
+        "email": "seetha2@gmail.com",
+        "phone": "7894561230"
+      },
+      "address": {
+        "street": "kochi",
+        "city": "kochi"
+      }
+    },
+    {
+      "id": "c284",
+      "firstname": "sachin",
+      "lastname": "bhaskar",
+      "dob": "2024-06-17",
+      "gender": "male",
+      "guardian": "bhaskar",
+      "group": "o+",
+      "contact": {
+        "email": "sachin@gmail.com",
+        "phone": "789220136"
+      },
+      "address": {
+        "street": "chhemeni",
+        "city": "chhemeni"
+      }
+    }
+  ]
+}
